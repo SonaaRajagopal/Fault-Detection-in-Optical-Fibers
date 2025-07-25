@@ -22,7 +22,7 @@ Optical fiber networks are critical for high-speed internet infrastructure. Dete
 - 🔒 Fiber tapping (eavesdropping)  
 - 🔧 Bad splices  
 
-...is essential for maintaining **network reliability** and **minimizing downtime**.
+is essential for maintaining **network reliability** and **minimizing downtime**.
 
 
 
